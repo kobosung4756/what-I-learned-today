@@ -1,6 +1,6 @@
 ## Turnover estimation using DNN
 
-**Problem explanation**\
+**Problem definition**\
 Recently, as the number of services using big data and data science has increased, N company needs a lot of developers in the field. In response, before considering hiring additional employees from outside, it was decided to receive applications from employees who want to move to big data and data science through the in-house department movement system. However, Ms. Pine Leaf, who works for HR(Human Resource), tries to create software that predicts employees who quit their jobs and find new jobs due to low satisfaction with the current department (field, wages, colleagues, etc.). Using neural network technology, please write an artificial intelligence SW that predicts employees who want to change jobs provided as test.csv files.
 
 **문제 설명**\
